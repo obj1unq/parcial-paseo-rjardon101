@@ -25,7 +25,6 @@ que está compuesta de dos elementos:el derecho y el izquierdo. Cada elemento pu
 un nivel de desgaste diferente. El nivel de degaste de la prenda es el promedio de desgaste
 de ambas partes: (desgaste del izquierdo + desgaste del derecho) / 2.
 El desgaste inicial de cada elemento es 0.
-
 Además no es bien recibido por los niños chiquitos: si el niño que lo 
 usa tiene menos  de 4  años resta 1 puntos de comodidad (si no nada).
 
